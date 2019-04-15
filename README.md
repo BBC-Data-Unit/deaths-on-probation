@@ -28,7 +28,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bradford Telegraph & Argus: [Number of people who died while on probation increases by 138%](https://www.thetelegraphandargus.co.uk/news/17570723.number-of-people-who-died-while-on-probation-increases-by-138/) *15 April 2019*
 * Teesside Live: [More and more offenders are dying when they leave prison - with 'self-inflicted' deaths on the rise](https://www.gazettelive.co.uk/news/teesside-news/more-more-offenders-dying-leave-16128718) *15 April 2019*
 
-
+The story was also used by BBC Radio Kent, BBC Surrey and BBC Sussex.
 
 ## Get the data 
 
