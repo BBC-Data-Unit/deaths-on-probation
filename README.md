@@ -24,10 +24,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * The Northern Echo: [Probation reforms criticised after hundreds die while under supervision](https://www.thenorthernecho.co.uk/news/17573064.probation-reforms-criticised-after-hundreds-die-while-under-supervision/) *15 April 2019*
 * The Northern Echo: [Opinion: Probation is not working](https://www.thenorthernecho.co.uk/opinion/17573265.probation-is-not-working/) *15 April 2019*
+* Essex: The Gazette: [Sodexo chief says he cannot be 'responsible for someone’s life on probation'](https://www.gazette-news.co.uk/news/17575547.sodexo-chief-says-he-cant-be-responsible-for-someones-life-on-probation/) *15 April 2019*
 * Basildon: Yellow Advertiser: [Essex probation company defends record as suicides and homicides shoot up after privatisation](https://www.yellowad.co.uk/article.cfm?id=141535&headline=Essex%20probation%20company%20defends%20record%20as%20suicides%20and%20homicides%20shoot%20up%20after%20privatisation&sectionIs=news&searchyear=2019) *15 April 2019*
 * Bradford Telegraph & Argus: [Number of people who died while on probation increases by 138%](https://www.thetelegraphandargus.co.uk/news/17570723.number-of-people-who-died-while-on-probation-increases-by-138/) *15 April 2019*
 * Teesside Live: [More and more offenders are dying when they leave prison - with 'self-inflicted' deaths on the rise](https://www.gazettelive.co.uk/news/teesside-news/more-more-offenders-dying-leave-16128718) *15 April 2019*
 * Nottinghamshire Live: [Number of people dying after leaving prison has risen over the last four years](https://www.nottinghampost.com/news/uk-world-news/number-people-dying-after-leaving-2738931) *15 April 2019*
+* Leicestershire Live: [Number of people dying after leaving prison leaps in 4 years since private companies took over probation roles](https://www.leicestermercury.co.uk/news/uk-world-news/number-people-dying-after-leaving-2738382) *15 April 2019*
+* Cornish Stuff: [News Insight: Probation deaths rise in an “irredeemably flawed” system](https://cornishstuff.com/2019/04/15/news-insight-probation-deaths-rise-in-an-irredeemably-flawed-system/) *15 April 2019*
+* York: The Press: [Shock offender death figures revealed](https://www.yorkpress.co.uk/news/17574801.number-of-offenders-who-die-while-under-supervision-revealed/) *16 April 2019* 
 
 The story was also used by BBC Radio Kent, BBC Surrey and BBC Sussex.
 
