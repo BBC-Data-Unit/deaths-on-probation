@@ -33,7 +33,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Cornish Stuff: [News Insight: Probation deaths rise in an “irredeemably flawed” system](https://cornishstuff.com/2019/04/15/news-insight-probation-deaths-rise-in-an-irredeemably-flawed-system/) *15 April 2019*
 * York: The Press: [Shock offender death figures revealed](https://www.yorkpress.co.uk/news/17574801.number-of-offenders-who-die-while-under-supervision-revealed/) *16 April 2019* 
 
-The story was also used by BBC Radio Kent, BBC Surrey and BBC Sussex.
+The story was also used by BBC Tees, BBC Radio Kent, BBC Surrey and BBC Sussex.
 
 ## Get the data 
 
