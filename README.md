@@ -14,7 +14,7 @@ The BBC's Shared Data Unit analysed Ministry of Justice data from 2015-16 to 201
 
 It found:
 
-- Last year 966 deaths of ex-prisoners were recorded, compared to 752 in 2015-16
+- Last year 966 deaths of offenders were recorded, compared to 752 in 2015-16
 - About one in three of those deaths were self-inflicted
 - In 2014-15, there were 558 deaths, but that was before 40,000 extra offenders were brought under supervision following government reforms 
 
