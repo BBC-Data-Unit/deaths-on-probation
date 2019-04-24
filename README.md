@@ -32,7 +32,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Leicestershire Live: [Number of people dying after leaving prison leaps in 4 years since private companies took over probation roles](https://www.leicestermercury.co.uk/news/uk-world-news/number-people-dying-after-leaving-2738382) *15 April 2019*
 * Cornish Stuff: [News Insight: Probation deaths rise in an “irredeemably flawed” system](https://cornishstuff.com/2019/04/15/news-insight-probation-deaths-rise-in-an-irredeemably-flawed-system/) *15 April 2019*
 * York: The Press: [Shock offender death figures revealed](https://www.yorkpress.co.uk/news/17574801.number-of-offenders-who-die-while-under-supervision-revealed/) *16 April 2019* 
+* Yorkshire Evening Post: [Why campaigners are "extremely concerned" by these deaths of people under probation supervision in West Yorkshire](https://www.yorkshireeveningpost.co.uk/news/crime/why-campaigners-are-extremely-concerned-by-these-deaths-of-people-under-probation-supervision-in-west-yorkshire-1-9715886) *16 April 2019*
+* Planet Radio: Hallam FM: [Calls for investigations into the rising number of probation deaths in South Yorkshire](https://planetradio.co.uk/hallam/local/news/calls-for-investigations-into-the-rising-number-of-probation-deaths-in-south-yorkshire/) *17 April 2019* 
 * Northampton Chronicle & Echo: [Fears Northamptonshire's probation service is 'failing' offenders after death rate triples](https://www.northamptonchron.co.uk/news/fears-northamptonshire-s-probation-service-is-failing-offenders-after-death-rate-triples-1-8894417) *17 April 2019*
+* Daventry Express: [Fears Northamptonshire's probation service is 'failing' offenders after death rate triples](https://www.daventryexpress.co.uk/news/fears-northamptonshire-s-probation-service-is-failing-offenders-after-death-rate-triples-1-8894417) *17 April 2019*
+
 
 The story was also used by [South East Today](https://drive.google.com/file/d/1HF9ublcgvr6GAeMgZRLJVTQ9KAJqBhIV/view?usp=sharing), BBC Tees, BBC Radio Kent, BBC Surrey and BBC Sussex.
 
